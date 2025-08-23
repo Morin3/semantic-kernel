@@ -38,7 +38,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot</artifactId>
-            <version>3.2.1</version>
+            <version>3.4.9</version>
         </dependency>
         <dependency>
             <groupId>com.azure</groupId>
@@ -64,7 +64,7 @@
         <dependency>
             <groupId>com.azure</groupId>
             <artifactId>azure-identity</artifactId>
-            <version>1.15.4</version>
+            <version>1.16.3</version>
         </dependency>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
