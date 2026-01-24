@@ -7,3 +7,6 @@ evaluate
 cmake
 unbabel-comet
 pyarrow>=14.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
+pyasn1>=0.6.2 # not directly required, pinned by Snyk to avoid a vulnerability
+torch>=2.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.46.2 # not directly required, pinned by Snyk to avoid a vulnerability
